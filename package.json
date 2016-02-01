@@ -1,0 +1,23 @@
+{
+  "name": "amazon-parser",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkozubal/amazon-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkozubal/amazon-parser/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "fs": "0.0.2",
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "sleep": "^3.0.0"
+  }
+}
